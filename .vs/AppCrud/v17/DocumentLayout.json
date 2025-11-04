@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{B1A979FC-14A6-4068-9CA7-8A215AE3927F}|AppCrud\\AppCrud.csproj|c:\\users\\jonathan\\source\\repos\\appcrud\\appcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B1A979FC-14A6-4068-9CA7-8A215AE3927F}|AppCrud\\AppCrud.csproj|solutionrelative:appcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A979FC-14A6-4068-9CA7-8A215AE3927F}|AppCrud\\AppCrud.csproj|c:\\users\\jonathan\\source\\repos\\appcrud\\appcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B1A979FC-14A6-4068-9CA7-8A215AE3927F}|AppCrud\\AppCrud.csproj|solutionrelative:appcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A979FC-14A6-4068-9CA7-8A215AE3927F}|AppCrud\\AppCrud.csproj|c:\\users\\jonathan\\source\\repos\\appcrud\\appcrud\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B1A979FC-14A6-4068-9CA7-8A215AE3927F}|AppCrud\\AppCrud.csproj|solutionrelative:appcrud\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A979FC-14A6-4068-9CA7-8A215AE3927F}|AppCrud\\AppCrud.csproj|c:\\users\\jonathan\\source\\repos\\appcrud\\appcrud\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B1A979FC-14A6-4068-9CA7-8A215AE3927F}|AppCrud\\AppCrud.csproj|solutionrelative:appcrud\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A979FC-14A6-4068-9CA7-8A215AE3927F}|AppCrud\\AppCrud.csproj|c:\\users\\jonathan\\source\\repos\\appcrud\\appcrud\\views\\auto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1A979FC-14A6-4068-9CA7-8A215AE3927F}|AppCrud\\AppCrud.csproj|solutionrelative:appcrud\\views\\auto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A979FC-14A6-4068-9CA7-8A215AE3927F}|AppCrud\\AppCrud.csproj|c:\\users\\jonathan\\source\\repos\\appcrud\\appcrud\\controllers\\autocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A979FC-14A6-4068-9CA7-8A215AE3927F}|AppCrud\\AppCrud.csproj|solutionrelative:appcrud\\controllers\\autocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A979FC-14A6-4068-9CA7-8A215AE3927F}|AppCrud\\AppCrud.csproj|c:\\users\\jonathan\\source\\repos\\appcrud\\appcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1A979FC-14A6-4068-9CA7-8A215AE3927F}|AppCrud\\AppCrud.csproj|solutionrelative:appcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\AppCrud\\AppCrud\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AppCrud\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\AppCrud\\AppCrud\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AppCrud\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAYwAUBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-04T13:47:40.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\AppCrud\\AppCrud\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "AppCrud\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\AppCrud\\AppCrud\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "AppCrud\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AgIAACQBAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-04T13:45:42.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\AppCrud\\AppCrud\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeDocumentMoniker": "AppCrud\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\AppCrud\\AppCrud\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeToolTip": "AppCrud\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-04T13:45:38.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\AppCrud\\AppCrud\\Views\\Auto\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppCrud\\Views\\Auto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\AppCrud\\AppCrud\\Views\\Auto\\Index.cshtml",
+              "RelativeToolTip": "AppCrud\\Views\\Auto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T13:44:22.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\AppCrud\\AppCrud\\Controllers\\AutoController.cs",
+              "RelativeDocumentMoniker": "AppCrud\\Controllers\\AutoController.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\AppCrud\\AppCrud\\Controllers\\AutoController.cs",
+              "RelativeToolTip": "AppCrud\\Controllers\\AutoController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAIwIkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:31:59.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\AppCrud\\AppCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "AppCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\AppCrud\\AppCrud\\appsettings.json",
+              "RelativeToolTip": "AppCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T05:08:01.847Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +126,7 @@
               "RelativeDocumentMoniker": "AppCrud\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\AppCrud\\AppCrud\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AppCrud\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwB4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-03T23:45:54.785Z",
               "EditorCaption": ""

@@ -287,3 +287,4 @@ C:\Users\Jonathan\source\repos\AppCrud\AppCrud\bin\Debug\net8.0\runtimes\win\lib
 C:\Users\Jonathan\source\repos\AppCrud\AppCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Jonathan\source\repos\AppCrud\AppCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Jonathan\source\repos\AppCrud\AppCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Jonathan\source\repos\AppCrud\AppCrud\obj\Debug\net8.0\AppCrud.sourcelink.json
